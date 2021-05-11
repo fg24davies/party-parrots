@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/cspoppuppy/party-parrots-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/louballantyne/party-parrots-client
